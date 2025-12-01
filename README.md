@@ -80,23 +80,30 @@ gcc main.c -o hr_app
 *<img width="655" height="591" alt="Screenshot 2025-12-01 212328" src="https://github.com/user-attachments/assets/8476531a-fff0-495a-a4ef-93db72262e23" />
 
 *Search employee by ID
+
 *<img width="724" height="479" alt="Screenshot 2025-12-01 212343" src="https://github.com/user-attachments/assets/84e3106c-8675-4441-add7-b870e78bd10c" />
 
 *Average salary report
+
 *<img width="652" height="335" alt="Screenshot 2025-12-01 212354" src="https://github.com/user-attachments/assets/8c538979-e945-40b8-9a34-b1b44611f0a8" />
 
 *Highest salary report
+
 *<img width="615" height="396" alt="Screenshot 2025-12-01 212405" src="https://github.com/user-attachments/assets/9cb99521-3786-4ce3-9b96-1a3fb195fd3c" />
 
 *Salary distribution
+
 *<img width="643" height="397" alt="Screenshot 2025-12-01 212415" src="https://github.com/user-attachments/assets/d904b75c-da6c-4a1a-a004-7ab291fe85b4" />
 
 *Update employee
+
 *<img width="564" height="439" alt="Screenshot 2025-12-01 212427" src="https://github.com/user-attachments/assets/41168a66-1622-4762-b256-bac827486095" />
 
 *Delete employee
+
 *<img width="525" height="351" alt="Screenshot 2025-12-01 212444" src="https://github.com/user-attachments/assets/e2dfb66f-bb66-42ef-bee8-5135d0c4415c" />
 
 *Exist
+
 *<img width="655" height="270" alt="Screenshot 2025-12-01 212507" src="https://github.com/user-attachments/assets/d278ca3e-5870-464b-82b7-98500b98d12a" />
 
