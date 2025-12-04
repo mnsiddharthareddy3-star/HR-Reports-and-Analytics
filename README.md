@@ -1,7 +1,9 @@
 # HR Reports / Analytics System (C Project)
+___
+## ✅ Abstract 
 
-A simple **HR Management and Analytics System** built using **C programming**.  
-This project allows users to add, display, search, update, delete employees and generate salary-based reports.
+This project “HR Reports / Analytics System” is a menu-driven application developed using the C programming language to manage basic employee information and generate simple HR reports. The system allows the user to add employee details such as ID, name, and salary, display all employee records, search for an employee by ID, find the highest and lowest salary among employees, and delete employee records when required.
+
 
 ---
 
